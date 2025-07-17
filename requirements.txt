@@ -1,0 +1,21 @@
+# Core Deep Learning Libraries
+# Note: The specific CUDA version for torch should be installed manually
+# as per the PyTorch website instructions for GPU support.
+torch==2.5.1
+transformers==4.53.2
+datasets==4.0.0
+
+# Core Data Science and ML Libraries
+scikit-learn==1.7.0
+numpy==2.1.2
+pandas==2.3.1
+
+# For data processing and file handling
+pyarrow==20.0.0
+dill==0.3.8
+fsspec==2024.6.1
+huggingface-hub==0.33.4
+safetensors==0.5.3
+
+# Utilities
+tqdm==4.67.1

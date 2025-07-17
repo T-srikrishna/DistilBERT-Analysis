@@ -1,0 +1,13 @@
+# Hugging Face output folders
+/results/
+/logs/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folder
+gpu_env_311/
