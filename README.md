@@ -12,7 +12,7 @@ The project is structured as a three-part experiment:
 
 ## Repository Structure
 
--   `distilbert_vs_bert_experiment.ipynb`: The main Jupyter Notebook containing all code, analysis, and results.
+-   `DistilBERT-Analysis.ipynb`: The main Jupyter Notebook containing all code, analysis, and results.
 -   `requirements.txt`: A list of all necessary Python libraries to run the project.
 -   `README.md`: This file, providing an overview and instructions.
 
