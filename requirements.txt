@@ -1,7 +1,7 @@
 # Core Deep Learning Libraries
-# Note: The specific CUDA version for torch should be installed manually
-# as per the PyTorch website instructions for GPU support.
-torch==2.5.1
+# Note: Install PyTorch manually based on your CUDA version for GPU support
+# (see https://pytorch.org/get-started/locally/). For CPU-only, use 'torch==2.5.1+cpu'.
+torch==2.5.1  # Use 'torch==2.5.1+cpu' for CPU-only environments
 transformers==4.53.2
 datasets==4.0.0
 
