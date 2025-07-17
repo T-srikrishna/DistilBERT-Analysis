@@ -7,8 +7,8 @@ This repository contains the final project for the AIDI 1002 course. This projec
 The project is structured as a three-part experiment:
 
 1.  **Reproducibility:** To reproduce the original paper's text classification performance by fine-tuning DistilBERT on the IMDb sentiment dataset.
-2.  **Contribution 1 (Generalization):** To evaluate the model's effectiveness in a new context by testing it on the SST-2 dataset, which contains shorter text samples.
-3.  **Contribution 2 (Efficiency Analysis):** To compare the performance and computational cost of DistilBERT against a fast, classical machine learning baseline (Logistic Regression with TF-IDF features).
+2.  **Generalization:** To evaluate the model's effectiveness in a new context by testing it on the SST-2 dataset, which contains shorter text samples.
+3.  **Efficiency Analysis:** To compare the performance and computational cost of DistilBERT against a fast, classical machine learning baseline (Logistic Regression with TF-IDF features).
 
 ## Repository Structure
 
