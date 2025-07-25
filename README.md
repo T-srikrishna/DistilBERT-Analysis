@@ -2,6 +2,12 @@
 
 This repository contains the final project for the AIDI 1002 course. This project reproduces the findings of the paper **"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter"** and extends the analysis with two significant contributions.
 
+## Team Members
+
+- **Srikrishna Thapa** (Student ID: 200592460)
+- **Prem Prasad Bhatta** (Student ID: 200593548)
+
+
 ## Project Objectives
 
 The project is structured as a three-part experiment:
